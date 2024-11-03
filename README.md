@@ -3,7 +3,7 @@
 ## Overview
 
 
-**AiDrop** is a Chrome extension that allows users to generate and download AI-generated images using the Pollinations API. With AiDrop, you can simply input your desired prompt, generate a unique image, and download it directly to your device, all from the comfort of your browser.
+**AiDrop** is a Chrome extension that allows users to generate AI-generated images/text using the Pollinations API. With AiDrop, you can simply input your desired prompt, generate a unique image, and text, all from the comfort of your browser.
 
 
 | ![Image 1](image.png) | ![Image 2](text.png) |
@@ -12,7 +12,6 @@
 ## Features
 
 - **Image Generation**: Generate stunning images based on your text prompts using the Pollinations API.
-- **Downloadable Images**: Easily download the generated images to your device.
 - **User-Friendly Interface**: Simple and intuitive interface for a seamless user experience.
 
 ## Installation
@@ -27,9 +26,8 @@
 
 1. Click on the AiDrop icon in your Chrome toolbar to open the extension popup.
 2. Enter your desired prompt in the input field.
-3. Click the **Generate Image** button.
-4. Once the image is generated, you can view it directly in the extension.
-5. Click the **Download Image** link to save the generated image to your device.
+3. Click the **Generate Image** or **Generate Text** button.
+4. Once the image/text is generated, you can view it directly in the extension.
 
 ## API
 
